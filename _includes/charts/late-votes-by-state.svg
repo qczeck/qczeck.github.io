@@ -1,0 +1,114 @@
+<svg viewBox="0 0 640 635" role="img" aria-label="Late votes per 100,000 votes cast, by state" font-size="12">
+<text class="t-muted" x="560" y="24" text-anchor="end">Per 100,000</text>
+<text class="t-muted" x="636" y="24" text-anchor="end">Late votes</text>
+<text x="142" y="54" text-anchor="end">Rondônia</text>
+<rect class="accent" x="150" y="43" width="340.0" height="14"><title>Rondônia: 552 of 988,489 votes (55.8 per 100,000)</title></rect>
+<text class="t-muted" x="560" y="54" text-anchor="end">55.8</text>
+<text x="636" y="54" text-anchor="end">552</text>
+<text x="142" y="75" text-anchor="end">Distrito Federal</text>
+<rect class="accent" x="150" y="64" width="318.1" height="14"><title>Distrito Federal: 976 of 1,868,280 votes (52.2 per 100,000)</title></rect>
+<text class="t-muted" x="560" y="75" text-anchor="end">52.2</text>
+<text x="636" y="75" text-anchor="end">976</text>
+<text x="142" y="96" text-anchor="end">Roraima</text>
+<rect class="accent" x="150" y="85" width="282.1" height="14"><title>Roraima: 143 of 308,597 votes (46.3 per 100,000)</title></rect>
+<text class="t-muted" x="560" y="96" text-anchor="end">46.3</text>
+<text x="636" y="96" text-anchor="end">143</text>
+<text x="142" y="117" text-anchor="end">Amazonas</text>
+<rect class="accent" x="150" y="106" width="277.5" height="14"><title>Amazonas: 999 of 2,192,059 votes (45.6 per 100,000)</title></rect>
+<text class="t-muted" x="560" y="117" text-anchor="end">45.6</text>
+<text x="636" y="117" text-anchor="end">999</text>
+<text x="142" y="138" text-anchor="end">Bahia</text>
+<rect class="accent" x="150" y="127" width="269.3" height="14"><title>Bahia: 4,167 of 9,422,033 votes (44.2 per 100,000)</title></rect>
+<text class="t-muted" x="560" y="138" text-anchor="end">44.2</text>
+<text x="636" y="138" text-anchor="end">4,167</text>
+<text x="142" y="159" text-anchor="end">Mato Grosso</text>
+<rect class="accent" x="150" y="148" width="261.6" height="14"><title>Mato Grosso: 896 of 2,085,334 votes (43.0 per 100,000)</title></rect>
+<text class="t-muted" x="560" y="159" text-anchor="end">43.0</text>
+<text x="636" y="159" text-anchor="end">896</text>
+<text x="142" y="180" text-anchor="end">Rio de Janeiro</text>
+<rect class="accent" x="150" y="169" width="249.3" height="14"><title>Rio de Janeiro: 4,126 of 10,077,263 votes (40.9 per 100,000)</title></rect>
+<text class="t-muted" x="560" y="180" text-anchor="end">40.9</text>
+<text x="636" y="180" text-anchor="end">4,126</text>
+<text x="142" y="201" text-anchor="end">Acre</text>
+<rect class="accent" x="150" y="190" width="210.7" height="14"><title>Acre: 157 of 453,654 votes (34.6 per 100,000)</title></rect>
+<text class="t-muted" x="560" y="201" text-anchor="end">34.6</text>
+<text x="636" y="201" text-anchor="end">157</text>
+<text x="142" y="222" text-anchor="end">Alagoas</text>
+<rect class="accent" x="150" y="211" width="199.7" height="14"><title>Alagoas: 640 of 1,951,632 votes (32.8 per 100,000)</title></rect>
+<text class="t-muted" x="560" y="222" text-anchor="end">32.8</text>
+<text x="636" y="222" text-anchor="end">640</text>
+<text x="142" y="243" text-anchor="end">Amapá</text>
+<rect class="accent" x="150" y="232" width="198.2" height="14"><title>Amapá: 140 of 429,975 votes (32.6 per 100,000)</title></rect>
+<text class="t-muted" x="560" y="243" text-anchor="end">32.6</text>
+<text x="636" y="243" text-anchor="end">140</text>
+<text x="142" y="264" text-anchor="end">São Paulo</text>
+<rect class="accent" x="150" y="253" width="195.5" height="14"><title>São Paulo: 8,787 of 27,364,121 votes (32.1 per 100,000)</title></rect>
+<text class="t-muted" x="560" y="264" text-anchor="end">32.1</text>
+<text x="636" y="264" text-anchor="end">8,787</text>
+<text x="142" y="285" text-anchor="end">Pernambuco</text>
+<rect class="bar" x="150" y="274" width="161.5" height="14"><title>Pernambuco: 1,625 of 6,126,467 votes (26.5 per 100,000)</title></rect>
+<text class="t-muted" x="560" y="285" text-anchor="end">26.5</text>
+<text x="636" y="285" text-anchor="end">1,625</text>
+<text x="142" y="306" text-anchor="end">Mato Grosso do Sul</text>
+<rect class="bar" x="150" y="295" width="160.0" height="14"><title>Mato Grosso do Sul: 419 of 1,594,460 votes (26.3 per 100,000)</title></rect>
+<text class="t-muted" x="560" y="306" text-anchor="end">26.3</text>
+<text x="636" y="306" text-anchor="end">419</text>
+<text x="142" y="327" text-anchor="end">Pará</text>
+<rect class="bar" x="150" y="316" width="158.5" height="14"><title>Pará: 1,299 of 4,989,573 votes (26.0 per 100,000)</title></rect>
+<text class="t-muted" x="560" y="327" text-anchor="end">26.0</text>
+<text x="636" y="327" text-anchor="end">1,299</text>
+<text x="142" y="348" text-anchor="end">Tocantins</text>
+<rect class="bar" x="150" y="337" width="140.9" height="14"><title>Tocantins: 221 of 954,763 votes (23.1 per 100,000)</title></rect>
+<text class="t-muted" x="560" y="348" text-anchor="end">23.1</text>
+<text x="636" y="348" text-anchor="end">221</text>
+<text x="142" y="369" text-anchor="end">Maranhão</text>
+<rect class="bar" x="150" y="358" width="135.0" height="14"><title>Maranhão: 915 of 4,127,735 votes (22.2 per 100,000)</title></rect>
+<text class="t-muted" x="560" y="369" text-anchor="end">22.2</text>
+<text x="636" y="369" text-anchor="end">915</text>
+<text x="142" y="390" text-anchor="end">Sergipe</text>
+<rect class="bar" x="150" y="379" width="117.9" height="14"><title>Sergipe: 284 of 1,466,659 votes (19.4 per 100,000)</title></rect>
+<text class="t-muted" x="560" y="390" text-anchor="end">19.4</text>
+<text x="636" y="390" text-anchor="end">284</text>
+<text x="142" y="411" text-anchor="end">Rio Grande do Norte</text>
+<rect class="bar" x="150" y="400" width="112.3" height="14"><title>Rio Grande do Norte: 412 of 2,232,823 votes (18.5 per 100,000)</title></rect>
+<text class="t-muted" x="560" y="411" text-anchor="end">18.5</text>
+<text x="636" y="411" text-anchor="end">412</text>
+<text x="142" y="432" text-anchor="end">Goiás</text>
+<rect class="bar" x="150" y="421" width="109.1" height="14"><title>Goiás: 725 of 4,047,280 votes (17.9 per 100,000)</title></rect>
+<text class="t-muted" x="560" y="432" text-anchor="end">17.9</text>
+<text x="636" y="432" text-anchor="end">725</text>
+<text x="142" y="453" text-anchor="end">Ceará</text>
+<rect class="bar" x="150" y="442" width="108.0" height="14"><title>Ceará: 1,069 of 6,024,843 votes (17.7 per 100,000)</title></rect>
+<text class="t-muted" x="560" y="453" text-anchor="end">17.7</text>
+<text x="636" y="453" text-anchor="end">1,069</text>
+<text x="142" y="474" text-anchor="end">Minas Gerais</text>
+<rect class="bar" x="150" y="463" width="104.0" height="14"><title>Minas Gerais: 2,228 of 13,044,203 votes (17.1 per 100,000)</title></rect>
+<text class="t-muted" x="560" y="474" text-anchor="end">17.1</text>
+<text x="636" y="474" text-anchor="end">2,228</text>
+<text x="142" y="495" text-anchor="end">Paraíba</text>
+<rect class="bar" x="150" y="484" width="103.2" height="14"><title>Paraíba: 465 of 2,743,559 votes (16.9 per 100,000)</title></rect>
+<text class="t-muted" x="560" y="495" text-anchor="end">16.9</text>
+<text x="636" y="495" text-anchor="end">465</text>
+<text x="142" y="516" text-anchor="end">Piauí</text>
+<rect class="bar" x="150" y="505" width="90.8" height="14"><title>Piauí: 334 of 2,239,829 votes (14.9 per 100,000)</title></rect>
+<text class="t-muted" x="560" y="516" text-anchor="end">14.9</text>
+<text x="636" y="516" text-anchor="end">334</text>
+<text x="142" y="537" text-anchor="end">Paraná</text>
+<rect class="bar" x="150" y="526" width="78.4" height="14"><title>Paraná: 909 of 7,059,339 votes (12.9 per 100,000)</title></rect>
+<text class="t-muted" x="560" y="537" text-anchor="end">12.9</text>
+<text x="636" y="537" text-anchor="end">909</text>
+<text x="142" y="558" text-anchor="end">Espírito Santo</text>
+<rect class="bar" x="150" y="547" width="73.0" height="14"><title>Espírito Santo: 289 of 2,409,518 votes (12.0 per 100,000)</title></rect>
+<text class="t-muted" x="560" y="558" text-anchor="end">12.0</text>
+<text x="636" y="558" text-anchor="end">289</text>
+<text x="142" y="579" text-anchor="end">Rio Grande do Sul</text>
+<rect class="bar" x="150" y="568" width="72.4" height="14"><title>Rio Grande do Sul: 819 of 6,889,636 votes (11.9 per 100,000)</title></rect>
+<text class="t-muted" x="560" y="579" text-anchor="end">11.9</text>
+<text x="636" y="579" text-anchor="end">819</text>
+<text x="142" y="600" text-anchor="end">Santa Catarina</text>
+<rect class="bar" x="150" y="589" width="58.0" height="14"><title>Santa Catarina: 454 of 4,762,303 votes (9.5 per 100,000)</title></rect>
+<text class="t-muted" x="560" y="600" text-anchor="end">9.5</text>
+<text x="636" y="600" text-anchor="end">454</text>
+<line class="ref" x1="312.1" x2="312.1" y1="38" y2="609"/>
+<text class="t-muted" x="312.1" y="625" text-anchor="middle">Brazil 26.6</text>
+</svg>

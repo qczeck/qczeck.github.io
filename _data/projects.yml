@@ -1,0 +1,7 @@
+# Shown on the home page in this order.
+- title: "RoPART: learning relative orientation in off-grid self-supervised vision"
+  url: https://github.com/qczeck/msc_thesis
+  summary: >-
+    MSc thesis, Imperial College London, 2026. Extends PART's pretext task from
+    relative translation between image patches to translation plus rotation, and
+    tests whether that helps on orientation-sensitive tasks.

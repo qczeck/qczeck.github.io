@@ -1,0 +1,13 @@
+title: Maciej Kuczek
+description: Machine learning, projects and writing.
+url: https://qczeck.github.io
+
+# Posts live at /blog/<slug>/
+permalink: /blog/:title/
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+exclude:
+  - README.md
